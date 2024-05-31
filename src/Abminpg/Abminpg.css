@@ -1,0 +1,133 @@
+.AbminpgheatingRow{
+    display: grid;
+    grid-template-columns: 46% 34%;
+    padding: 15px;
+}
+.Abminpgheatingname{
+    font-size:15px;
+    display: flex;
+    padding-left: 5px;
+}
+.Abminpg-TimeTable-TeachersAdd-StudentsAdd-And-Back-Button{
+    display: grid;
+    grid-template-columns:  48% 48% 45% 48px 40px;
+}
+.AbminpgTeachersReports{
+    font-size: 20px;
+    padding-left: 50px;
+}
+.AbminpgTeachersReportsTabul{
+    height: 250px;
+    width: 70%;
+    box-shadow: 0 0 5px #393737;
+    margin: 15px 30px;
+    align-items: center;
+}
+.AbminpgTeachersMessageBox{
+    height: 250px;
+    width: 20%;
+    box-shadow: 0 0 5px #393737;
+    margin: 15px 10px;
+}
+.AdminpgTeacherMessagesBox {
+    padding: 10px;
+    border: 1px solid #ccc;
+    height: 100%;
+}
+.messageNeme{
+    font-size: 10px;
+    color: #393737;
+}  
+.AdminpgTeacherLeaveMessages {
+    font-size: 13px; /* Adjusted font size */
+    margin-bottom: 10px;
+    text-align: center;
+}
+  
+.AdminpgMessageScrollbox {
+    max-height: 175px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+  
+.AdminpgMessageScrollbox::-webkit-scrollbar {
+    width: 5px;
+}
+  
+.AdminpgMessageScrollbox::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+  
+.AdminpgMessageScrollbox::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+.AdminpgTeachersReportsScrollbox {
+    max-height: 475px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+  
+.AdminpgTeachersReportsScrollbox::-webkit-scrollbar {
+    width: 5px;
+}
+  
+.AdminpgTeachersReportsScrollbox::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+  
+.AdminpgTeachersReportsScrollbox::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+  
+.AdminpgMessages-list {
+    background-color: rgba(66, 66, 247, 0.582);
+    color: #fff;
+    border-radius: 15px 0px 15px 15px;
+    padding: 10px;
+    font-size: 12px; /* Adjusted font size */
+    margin: 10px 1px 0px 10px;
+}
+  
+.AdminpgMessagesmargin {
+    margin: 4px;
+    display: flex;
+
+}
+  
+.AdminpgMessages {
+    width: 69%;
+    border-radius: 5px;
+    border: 1px solid #ccc; /* Added border */
+    height: 25px; /* Adjusted height */
+    font-size: 12px; /* Adjusted font size */
+    padding: 5px;
+}
+  
+.AdminpgMessagesButton {
+    background-color: rgba(66, 66, 247, 0.582);
+    border: none; /* Changed border property */
+    color: #fff;
+    border-radius: 5px;
+    padding: 2px; /* Adjusted padding */
+    height: 25px; /* Adjusted height */
+    width: 50px; /* Adjusted width */
+    margin-left: 4px;
+}
+  
+.AbminpgSearchStudents{
+    height: 20px;
+    width: 20%;
+    box-shadow: 0px 0px 2px #888;
+    background-color: #393737;
+}
+
+
+
+
+

@@ -1,0 +1,684 @@
+/* .AbminpgheatingRow{
+  display: grid;
+  grid-template-columns: 47% 34%;
+  padding: 15px;
+} */
+/* .Abminpgheatingname{
+  font-size: 20px;
+} */
+/* .TeachersAndStudentsButton{
+  display: grid;
+  grid-template-columns:  48% 48% 45% 48px;
+} */
+.AbminpgHeatingTeachersButton{
+  background-color: rgba(66, 66, 247, 0.582);
+  color: #fff;
+  border-width: 0px;
+  border-radius: 15px;
+  width: 130px;
+  margin-right: 10px;
+  padding: 7px;
+}
+.AbminpgHeatingStudentButton{
+  background-color: rgba(66, 66, 247, 0.582);
+  color: #fff;
+  border-width: 0px;
+  border-radius: 15px;
+  width: 130px;
+  padding: 7px;
+}
+.back{
+  border-width: 0px;
+  margin-left: 15px;
+  font-size: 19px;
+  width: 60%;
+  height: 100%;
+}
+.back:hover{
+  border-radius: 50%;
+  background-color: #ababab;
+  border-width: 0px;
+  width: 60%;
+  height: 100%;
+}
+/* .Adminpgadmin-page {
+  padding: 10px;
+  border: 1px solid #ccc;
+  height: 100%;
+} */
+
+/* .AdminpgMessagesBox {
+  font-size: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+} */
+/* .AdminpgMessages-list{
+  background-color: rgba(66, 66, 247, 0.582);
+  color: #fff;
+  border-radius: 15px 0px 15px 15px;
+  padding: 10px;
+  font-size: 10px;
+  margin: 10px 1px 0px 10px;
+} */
+/* .Scrollbox {
+  max-height: 185px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+.Scrollbox::-webkit-scrollbar {
+  width: 5px;
+}
+.Scrollbox::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 4px;
+}
+
+.Scrollbox::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+} */
+.AdminpgMessages{
+  width: 69%;
+  border-radius: 5px;
+  border-width: 1px;
+  height: 20px;
+  font-size: 10px;
+  padding: 5px;
+}
+.AdminpgMessagesButton{
+  background-color: rgba(66, 66, 247, 0.582);
+  border-width: 0px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 1px;
+  height: 20px;
+  width: 40px;
+  margin-left: 6px;
+}
+/* .AdminpgMessagesmargin{
+  margin: 4px;
+} */
+
+
+/* .AbminpgTeachersReports{
+  font-size: 20px;
+  padding-left: 50px;
+} */
+/* .Tabul{
+  height: 250px;
+  width: 70%;
+  box-shadow: 0 0 5px #393737;
+  margin: 15px 30px;
+  align-items: center;
+} */
+.mt-4{
+  align-items: center;
+  min-width: 130px;
+}
+/* .message{
+  height: 250px;
+  width: 20%;
+  box-shadow: 0 0 5px #393737;
+  margin: 15px 10px;
+} */
+/* .AbminpgSearchStudents{
+  font-size: 20px;
+  margin-left: 20px;
+} */
+.AbminpgEnterYourStudentsDetail{
+ display: grid;
+ grid-template-columns: 25% 25% 25% 20%; 
+ margin-left:11%;
+ margin-top: 10px;
+}
+.AbminpgStudentsDetailsRow{
+  font-size: 20px;
+  padding: 1px;
+}
+.AbminpgStudentsDetailsInputBox{
+  border-radius: 5px;
+  padding: 5px;
+}
+.AbminpgStudentSummitButton{
+  background-color: rgba(66, 66, 247, 0.582);
+  color: #fff;
+  border-width: 0px;
+  border-radius: 15px;
+  width: 100px;
+  height: 30px;
+  margin-top: 25px;
+  margin-bottom: 30%;
+}
+.TIMETABLE{
+  width: 98%;
+  font-size: 9px;
+  text-align: center;
+  margin: 5px;
+}
+/* .TIMETABLE1{
+  height: 0px;
+} */
+.ClassSection{
+  text-align:center;
+  padding-top: 4px;
+}
+.Teacherpg{
+  background-color: #fff;
+}
+.TeacherpgHeatingRow{
+  display: grid;
+  grid-template-columns: 76% 15% 0% 0%;  
+}
+.TeacherpgHeating{
+  font-size: 15px;
+  padding: 10px 20px;
+}
+.TeacherpgHeatingRoxMassegaBox{
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgba(66, 66, 247, 0.582);
+  border-width: 0px;
+  color: #fff;
+  margin: 10px;
+  width: 120px;
+}
+.TeacherpgHeatingRoxMassegaBox:hover{
+  background-color: rgba(0, 0, 248, 0.582);
+}
+.TeacherpgHeatingRoxBark{
+  background-color:#fff;
+  border-radius: 50%;
+  border-width: 0px;
+  height: 30px;
+  width: 30px;
+  margin: 8px 20px;
+  font-size: 15px;
+}
+.TeacherpgHeatingRoxBark:hover{
+  background-color:#666;
+  color: #fff;
+}
+.Teacherpg-message{
+  padding: 5px;
+}
+.message-box{
+  width: 100%;
+  height: 125px;
+  box-shadow: 0 0 1px #555;
+  border-radius: 5px;
+}
+.Teacherpg-message-popup-input-box{
+  height: 20px;
+  width: 115px;
+  margin: 5px 0px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 1px; 
+  font-size: 10px;
+}
+.Teacherpg-close-button{
+  height: 20px;
+  border-radius: 5px;
+  background-color: rgba(66, 66, 247, 0.582);
+  border-width: 0px;
+  color: #fff;
+  width: 50px;
+  font-size: 10px;
+  margin: 5px 35px;
+  padding: 5px;
+}
+.TeacherpgTimeTable{
+  font-size: 10px;
+  padding: 5px;
+  text-align: center;
+}
+.TeacherpgTimeTableBox{
+  height: 325px;
+  width: 85%;
+  box-shadow: 0 0 5px #393737;
+  margin: 0px 60px;
+}
+.TeacherpgMessageBox{
+  box-shadow: 0 0 5px #393737;
+  height: 150px;
+  margin: 0px 80px 20px;
+  width: 80%;
+}
+.TeacherpgAbminMessega{
+  font-size: 13px;
+  padding: 3px;
+  text-align: center;
+}
+.TeacherpgMessageBoxAndProfile{
+  width: 50%;
+  margin: 0px 0px 0px -75px;
+}
+.TeacherpgMessageBoxAndProfileRow{
+  display: grid;
+  grid-template-columns: 75% 50%;
+}
+.Teacherpg-message-popup-content {
+  /* background-color: white;
+  padding: 20px;
+  border-radius: 8px; */
+  /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); */
+  display: grid;
+  grid-template-columns: 50% 60%;
+}
+.TeacherpgProfileImg{
+  height: 40px;
+  width: 40px;
+  box-shadow:  0 0 5px #393737;
+  border-radius: 50%;
+  margin: 0px;
+  margin-left: 40%;
+  
+}
+.TeacherpgProfileImg:hover{
+  box-shadow:  0 0 7px blue;
+}
+.TeacherpgProfileDetail{
+  font-size: 10px;
+}
+.TeacherpgProfileDetailBox{
+  text-align: center;
+}
+.TeacherpgProfileUpdate{
+  height: 18px;
+  border-radius: 50px;
+  background-color: rgba(66, 66, 247, 0.582);
+  border-width: 0px;
+  color: #fff;
+  margin-left: 35%;
+  width: 65px;
+  font-size: 10px;
+}
+
+
+.StudentAttnashResrt{
+  height: 200px;
+  width: 950px;
+  box-shadow:  0 0 5px #393737;
+  margin: 20px;
+  margin-left: 9%;
+}
+.StudentpProfile{
+  display: flex;
+}
+.StudentprofileImg{
+  height: 100px;
+  width: 100px;
+  box-shadow:  0 0 5px #393737;
+  border-radius: 50%;
+  margin: 20px;
+  margin-left: 9%;
+}
+.Studentprofile{
+  font-size: 15px;
+}
+.chart-container{
+  width: 40%;
+}
+.StudentprofileDitel{
+  margin-top: 20px;
+}
+.Studentprofileupdetebutton{
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgba(66, 66, 247, 0.582);
+  border-width: 0px;
+  color: #fff;
+  margin: 20px;
+  width: 120px;
+}
+.StudentpgHeatingRow{
+  display: grid;
+  grid-template-columns: 90% 10%;
+}
+.StudentpgHeating{
+  font-size: 20px;
+  padding: 20px;
+}
+.StudentpgHeatingbark{
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 20px;
+  border-width: 0px;
+}
+.StudentpgHeatingbark:hover{
+  background-color: #666;
+  color: #fff;
+  border-radius: 50%;
+}
+.StudentpgAttnashRepot{
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+
+
+.Abminapp{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.Abminappbox{
+  box-shadow: 0 0 5px #555;
+  justify-content: center;
+  width: 40%;
+  height: 350px;
+  padding: 15px;
+  font-size: 10px;
+}
+.AbminappOutputmessage{
+  text-align: center; 
+  color: red;
+  font-size: 15px;
+}
+  
+
+
+.Teacherapp{
+  display: flex;
+  justify-content: center;
+  margin-top: 45px;
+  position: relative ;
+}
+.TeacherappBark{
+  position: absolute;
+  top: 5px;
+  left: 66%;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border-width: 0px;
+  padding: 5px;
+}
+.TeacherappBark:hover{
+  background-color: #555;
+  color: #fff;
+}
+.Teacherappbox{
+  box-shadow: 0 0 5px #555;
+  justify-content: center;
+  width: 40%;
+  height: 385px;
+  padding: 15px;
+  font-size: 5px;
+}
+.TeacherappRow{
+  display: flex;
+  margin: 10px;
+}
+.Teacherappinputheating{
+  margin: 10px 10px ;
+}
+.Teacherappinput{
+  width: 100%;
+}
+.TeacherappOutputmessage{
+  text-align: center; 
+  color: red;
+  font-size: 15px;
+}
+.Teacherappinputbox{
+  width: 96%;
+}
+.TeacherappFirstName{
+  margin-right: 3px;
+}
+.TeacherappInput{
+  width: 90%;
+}
+
+.TeacherAppInpuBoxGender{
+  font-size: 10px;
+  margin:5px;
+}
+.TeacherAppGendertext{
+  font-size: 12px;
+  padding: 5px;
+}
+.TeacherAppThireeInputRowHeating{
+  display: grid;
+  grid-template-columns: 46% 45%;
+  gap: 16px;
+  margin: 10px;
+}
+.TeacherAppGender{
+  margin-left: 5px;
+}
+.TeacherAppButton{
+  margin: 2% 39%;
+  width: 20%;
+  padding:3px;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color:rgba(82, 82, 211, 0.753);
+  color: #fff;
+}
+.TeacherAddSubject{
+  width: 84%;
+}
+
+
+
+Styles for timetable
+/* .timetable-container {
+  margin: 20px;
+}
+
+.timetable-header {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.timetable-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.timetable-table th,
+.timetable-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.timetable-table th {
+  background-color: #f2f2f2;
+}
+
+.timetable-table td ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.timetable-table td ul li {
+  margin-bottom: 5px;
+}
+
+/* Styles for loading message 
+.loading-message {
+  margin: 20px;
+  font-size: 18px;
+} */
+
+.TIMETABLE-Table{
+  margin-top: 9px;
+}
+.pg{
+  margin-top: -20px;
+  
+}
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  font-size: 10px;
+  background-color: #fff;
+  border: 2px solid #dee2e6;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #343a40;
+}
+
+.highlight {
+  background-color: #f8f9fa;
+}
+
+.special {
+  background-color: #f0f0f0;
+}
+.row{
+  border-width: 1px;
+  padding: 0px;
+}
+.input{
+  height: 20px;
+  border-width: 0px;
+  width: 100%;
+  padding: 22px;
+}
+
+.message-box {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.message-box.info {
+  background-color: #d9edf7;
+  color: #31708f;
+  border: 1px solid #bce8f1;
+}
+
+.message-box.success {
+  background-color: #dff0d8;
+  color: #3c763d;
+  border: 1px solid #d6e9c6;
+}
+
+.message-box.warning {
+  background-color: #fcf8e3;
+  color: #8a6d3b;
+  border: 1px solid #faebcc;
+}
+
+.message-box.error {
+  background-color: #f2dede;
+  color: #a94442;
+  border: 1px solid #ebccd1;
+}
+
+.message-box button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+.TeacherpgAbminMessage{
+  font-size: 12px;
+  text-align: center;
+}
+.TeacherpgAbminMessage-list{
+  box-shadow: 0px 0px 1px #555;
+  margin: 0px 10px;
+  height: 95px;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+.TeacherpgMessageinput{
+  width: 120px;
+  margin: 8px 5px 20px 10px;
+  font-size: 10px;
+  padding: 2.1px;
+}
+.TeacherpgAbminMessageBox{
+  display: grid;
+  grid-row: 0px;
+  justify-content:end;
+  margin-right: 10px;
+}
+strong{
+  background-color: rgba(142, 142, 250, 0.753);
+  color: #fff;
+  font-size: 11px;
+  border-radius: 4px 4px 0px 5px;
+  padding: 5px;
+  margin: 5px;
+  height: 75%;
+  width: 100%;
+
+}
+.TeacherpgAbminMessageButton{
+  border-radius: 5px;
+  border-width: 0px;
+  background-color:rgba(82, 82, 211, 0.753);
+  color: #fff;
+  font-size: 10px;
+  padding: 4px; 
+}
+.TeacherpgAbminMessageUsername{
+  font-size: 7px;
+  text-align: end;
+  margin:-3px;
+}
+
+.Scrollbox {
+  max-height: 185px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+.Scrollbox::-webkit-scrollbar {
+  width: 5px;
+}
+.Scrollbox::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 4px;
+}
+
+.Scrollbox::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+.TeacherappTh{
+  font-size: 10px;
+  margin: 0pc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

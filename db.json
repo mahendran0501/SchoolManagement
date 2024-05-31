@@ -1,0 +1,797 @@
+{
+  "Abminapp": [
+    {
+      "id": "1",
+      "fname": "mahendran",
+      "lname": "K",
+      "email": "Mahendranmagesh9@gmail.com",
+      "dateofbirth": "1999-01-05",
+      "password": "magesh0501",
+      "cpassword": "magesh0501"
+    },
+    {
+      "id": "e9d9",
+      "fname": "magesh",
+      "lname": ".k",
+      "email": "mahendran9@gmail.con",
+      "dateofbirth": "1999-01-05",
+      "password": "magesh0501",
+      "cpassword": "magesh0501"
+    }
+  ],
+  "Teacherapp": [
+    {
+      "id": "9d43",
+      "Fname": "mahendran",
+      "Lname": "k",
+      "Email": "mahendranmagesh9@gmail.com",
+      "dateofbirth": "2024-05-09",
+      "gander": "",
+      "ClassSention": "B1",
+      "Subject": "English",
+      "WorkPhoneNumber": "987654321",
+      "CellPhoneNumber": "9098765433",
+      "Qualification": "dipamo",
+      "Experience": "IT",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    },
+    {
+      "id": "0fb2",
+      "Fname": "devi",
+      "Lname": "c",
+      "Email": "kannanDevi300@gmail.com",
+      "dateofbirth": "1976-03-19",
+      "gander": "",
+      "ClassSention": "A2",
+      "Subject": "English",
+      "WorkPhoneNumber": "9790745950",
+      "CellPhoneNumber": "9098765433",
+      "Qualification": "B.com",
+      "Experience": "accounting",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "female"
+    },
+    {
+      "id": "82f2",
+      "Fname": "kannan",
+      "Lname": "k",
+      "Email": "kannanDevi300@gmail.com",
+      "dateofbirth": "1980-06-19",
+      "gander": "",
+      "ClassSention": "A2",
+      "Subject": "mathes",
+      "WorkPhoneNumber": "9098765432",
+      "CellPhoneNumber": "9876543210",
+      "Qualification": "12",
+      "Experience": "accounting",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    },
+    {
+      "id": "ca1b",
+      "Fname": "manju",
+      "Lname": "k",
+      "Email": "keethrana400@gmail.com",
+      "dateofbirth": "2000-05-24",
+      "gander": "",
+      "ClassSention": "B1",
+      "Subject": "Science",
+      "WorkPhoneNumber": "7400402480",
+      "CellPhoneNumber": "9876543210",
+      "Qualification": "B.com",
+      "Experience": "accounting",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "female"
+    },
+    {
+      "id": "5704",
+      "Fname": "mahendran",
+      "Lname": "magesh",
+      "Email": "mahendranmagesh9@gmail.com",
+      "dateofbirth": "1999-01-05",
+      "gander": "",
+      "ClassSention": "C3",
+      "Subject": "sociyal",
+      "WorkPhoneNumber": "9344020229",
+      "CellPhoneNumber": "9098765433",
+      "Qualification": "dipamo",
+      "Experience": "IT",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    },
+    {
+      "id": "6b88",
+      "Fname": "ezhilarasan",
+      "Lname": "arasan",
+      "Email": "ezhilarasan7603874238@gmail.com",
+      "dateofbirth": "2005-10-25",
+      "gander": "",
+      "ClassSention": "A2",
+      "Subject": "English",
+      "WorkPhoneNumber": "7603874238",
+      "CellPhoneNumber": "7603874238",
+      "Qualification": "B.com",
+      "Experience": "accounting",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    },
+    {
+      "id": "49b1",
+      "Fname": "santhosh",
+      "Lname": "R",
+      "Email": "welcome123@gmail.com",
+      "dateofbirth": "2011-12-11",
+      "gander": "",
+      "ClassSention": "A2",
+      "Subject": "sociyal",
+      "WorkPhoneNumber": "7358641821",
+      "CellPhoneNumber": "9003267566",
+      "Qualification": "8",
+      "Experience": "IT",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    }
+  ],
+  "Studentapp": [
+    {
+      "id": "a4d3",
+      "Fname": "mani",
+      "Lname": "manju",
+      "Standar": "7",
+      "ClassSention": "A2",
+      "RollNo": "10002",
+      "FathersName": "magesh",
+      "MothersName": "kumar",
+      "Email": "keethrana400@gmail.com",
+      "dateofbirth": "2000-05-25",
+      "gander": "",
+      "PhoneNumber": "7603874238",
+      "EmergencyMobileNumber": "9790745950",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "female"
+    },
+    {
+      "id": "f813",
+      "Fname": "kannan",
+      "Lname": "arasan",
+      "Standar": "2",
+      "ClassSention": "B1",
+      "RollNo": "10009",
+      "FathersName": "magesh",
+      "MothersName": "magesh",
+      "Email": "keethrana400@gmail.com",
+      "dateofbirth": "2024-05-31",
+      "gander": "",
+      "PhoneNumber": "9003267566",
+      "EmergencyMobileNumber": "9790745950",
+      "Address": "NO:20 kamarajar st chenni 600078",
+      "gender": "male"
+    },
+    {
+      "id": "3537",
+      "Fname": "mahendran",
+      "Lname": "magesh",
+      "Standar": "2",
+      "ClassSention": "A2",
+      "RollNo": "10003",
+      "FathersName": "Kannan",
+      "MothersName": "Devi",
+      "Email": "mahendranmagesh9@gmail.com",
+      "dateofbirth": "1999-01-05",
+      "gander": "",
+      "PhoneNumber": "9344020229",
+      "EmergencyMobileNumber": "9790745950",
+      "Address": "No:20 karamaraj st MGR nagar ",
+      "gender": "male"
+    }
+  ],
+  "messega": [
+    {
+      "id": "1",
+      "username": "magi",
+      "text": "hi"
+    },
+    {
+      "id": "2",
+      "username": "magi",
+      "text": "Abmin"
+    },
+    {
+      "id": "3",
+      "username": "magi",
+      "text": "hallo"
+    },
+    {
+      "id": "22ee",
+      "text": "hmm",
+      "sender": "mahendran"
+    },
+    {
+      "id": "5",
+      "username": "magi",
+      "text": "hi"
+    },
+    {
+      "id": "6",
+      "username": "magi",
+      "text": "hello"
+    },
+    {
+      "id": "cab4",
+      "text": "No",
+      "sender": "Admin"
+    }
+  ],
+  "timetable": [
+    {
+      "id": "f70b",
+      "classSection": "I",
+      "timetable": {
+        "Monday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "English"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Science"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Social"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Tamil"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Hindi"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Science"
+          }
+        ],
+        "Tuesday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Tamil"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Hindi"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Hindi"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Maths"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "English"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Science"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Social"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Tamil"
+          }
+        ],
+        "Wednesday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Science"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Social"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Tamil"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Hindi"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "English"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Science"
+          }
+        ],
+        "Thursday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Social"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Hindi"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Maths"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "English"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Science"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Tamil"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Hindi"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Maths"
+          }
+        ],
+        "Friday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "English"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Science"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Social"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Tamil"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Maths"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "English"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Science"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Social"
+          }
+        ],
+        "Saturday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Social"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "English"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Science"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Tamil"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Hindi"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "English"
+          }
+        ]
+      }
+    },
+    {
+      "id": "150c",
+      "classSection": "ClassSection-II",
+      "timetable": {
+        "Monday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Tamil"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Social"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "English"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Science"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Hindi"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Tamil"
+          }
+        ],
+        "Tuesday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Social"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "English"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Science"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Hindi"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Tamil"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Tamil"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "English"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Science"
+          }
+        ],
+        "Wednesday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Hindi"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Tamil"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Social"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "English"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Science"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Hindi"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Maths"
+          }
+        ],
+        "Thursday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Science"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Hindi"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Maths"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Tamil"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Social"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "English"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Science"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Hindi"
+          }
+        ],
+        "Friday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "Tamil"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Social"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "English"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Science"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Hindi"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Maths"
+          }
+        ],
+        "Saturday": [
+          {
+            "time": "9:30-10:20",
+            "subject": "Social"
+          },
+          {
+            "time": "10:20-11:10",
+            "subject": "English"
+          },
+          {
+            "time": "11:10-12:00",
+            "subject": "Science"
+          },
+          {
+            "time": "12:00-12:40",
+            "subject": "Hindi"
+          },
+          {
+            "time": "12:40-1:30",
+            "subject": "Maths"
+          },
+          {
+            "time": "1:30-2:20",
+            "subject": "Maths"
+          },
+          {
+            "time": "2:20-3:10",
+            "subject": "Maths"
+          },
+          {
+            "time": "3:10-4:00",
+            "subject": "Tamil"
+          }
+        ]
+      }
+    }
+  ],
+  "Attendance": [
+    {
+      "0": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Present",
+        "date": "2024-05-14"
+      },
+      "1": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Absent",
+        "date": "2024-05-14"
+      },
+      "2": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Present",
+        "date": "2024-05-14"
+      },
+      "id": "5695"
+    },
+    {
+      "0": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Absent",
+        "date": "2024-05-15"
+      },
+      "1": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Present",
+        "date": "2024-05-15"
+      },
+      "2": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Absent",
+        "date": "2024-05-15"
+      },
+      "id": "eb77"
+    },
+    {
+      "0": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Absent",
+        "date": "2024-05-16"
+      },
+      "1": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Present",
+        "date": "2024-05-16"
+      },
+      "2": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Absent",
+        "date": "2024-05-16"
+      },
+      "id": "0344"
+    },
+    {
+      "0": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Present",
+        "date": "2024-05-17"
+      },
+      "1": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Absent",
+        "date": "2024-05-17"
+      },
+      "2": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Present",
+        "date": "2024-05-17"
+      },
+      "id": "dac0"
+    },
+    {
+      "0": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Present",
+        "date": "2024-05-22"
+      },
+      "1": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Present",
+        "date": "2024-05-22"
+      },
+      "2": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Present",
+        "date": "2024-05-22"
+      },
+      "id": "4583"
+    },
+    {
+      "0": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Present",
+        "date": "2024-05-23"
+      },
+      "1": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Present",
+        "date": "2024-05-23"
+      },
+      "2": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Present",
+        "date": "2024-05-23"
+      },
+      "id": "d94d"
+    },
+    {
+      "0": {
+        "id": "a4d3",
+        "Fname": "mani",
+        "attendance": "Present",
+        "date": "2024-05-24"
+      },
+      "1": {
+        "id": "f813",
+        "Fname": "kannan",
+        "attendance": "Present",
+        "date": "2024-05-24"
+      },
+      "2": {
+        "id": "3537",
+        "Fname": "mahendran",
+        "attendance": "Present",
+        "date": "2024-05-24"
+      },
+      "id": "c2a9"
+    }
+  ]
+}

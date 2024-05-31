@@ -1,0 +1,412 @@
+/* navbar */
+.neverbackground{
+  background-color:white;
+  height: 47px;
+  display: flex;
+  animation: never 2s ease-in-out;
+}
+@keyframes never{
+  0%{
+    transform: translateY(-100%);
+  }
+}
+.logoContainer {
+  width: 8%;
+}
+.logo {
+  width: 3%;
+  height: auto;
+  position: absolute;
+  margin: 10px;
+  margin-left: 36px;
+}
+.schoolName {
+  font-size: 8px;
+  position: relative;
+  top: -24px;
+  left: 18px;
+  color:rgb(16, 16, 104);
+}
+.schoolName2 {
+  font-size: 7px;
+  position: relative;
+  top: -9px;
+  left: 24px;
+  color: rgb(145, 145, 31);
+}
+.Options{
+  display: grid;
+  grid-template-columns:165% 30%;
+  margin-left: 20%;
+  margin-top: 8px;
+  font-size: 12px;
+}
+.Options2{
+  display: grid;
+  grid-template-columns:25% 34% 38% 0%;
+  margin: 1.5% -5% 0% 35%;
+  font-size: 12px;
+}
+.login{
+  color: black;
+}
+.bg-image{
+  margin: 3px;
+}
+.loginDropdown {
+  list-style-type: none;
+  cursor: pointer;
+}
+.loginText {
+  font-family: cursive;
+  font-size: 18px;
+  padding: 10px;
+  font-weight: 700;
+}
+.loginThreeLink {
+  list-style-type: none;
+  display: none;
+  position: absolute;
+  z-index: 2;
+  margin-left: 30px;
+  margin-top: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+.LoginHome{
+  list-style: none;
+  margin:-8px 12px 15px -4px;
+}
+.LoginHome a {
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #000; 
+  display: block;
+}
+.LoginHome a:hover {
+  color: #fff; 
+  background-color: #007BFF; 
+}
+.loginlink a{
+  padding: 4px;
+  list-style-type: none;
+  text-decoration: none;
+  display: block;
+}
+.loginlink:hover{
+  background-color: rgb(255, 153, 0);
+  border-radius: 5px;
+}
+.loginDropdown li:hover .loginThreeLink {
+  display: block;
+}
+
+/* carousel */
+.carouselContainer{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 410px;
+  padding: 0px 31px 100px 31px;
+}
+.carouselImageSlide{
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 2px #666;
+  width: 100%;
+  height: 100%;
+}
+.carouselImageSlide-hidden{
+  display: none;
+}
+.carouselArrow{
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  color: white;
+  filter: drop-shadow(0px 0px 5px #555);
+}
+.carouselArrow:hover{
+  cursor: pointer;
+}
+.carouselArrow-left{
+  left: 3rem;
+}
+.carouselArrow-right{
+  left: 91%;
+}
+.carouselIndicators{
+  display: flex;
+  position: absolute;
+  bottom: 8rem;
+}
+.carouselIndicator{
+  background-color: #fff;
+  height: 0.5rem;
+  width: 0.5rem;
+  border-radius: 100%;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 5px #555;
+  margin: 0 0.2rem;
+  cursor: pointer;
+}
+.carouselIndicator-inactive{
+  background-color: #555;
+}
+
+
+
+/* About */
+.aboutHeading{
+  color: rgb(255, 153, 0);
+  font-family: cursive;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -82px;
+}
+.AboutWelcomeImg{
+  margin: 18px;
+  margin-left: 40px; 
+  box-shadow: 0 0 5px #555;
+  width: 90%; 
+  height: 120%; 
+  background-size: cover;
+  animation: slider 10s linear infinite;
+}
+@keyframes slider{
+  0%{
+    background-image: url("https://i.ibb.co/7XCsDf4/depositphotos-39444897-School-children-running.webp");
+  }
+  30%{
+    background-image: url("https://i.ibb.co/YL5Yp0M/depositphotos-39443657-School-girl.webp");
+  }
+  60%{
+    background-image: url(https://i.ibb.co/DQ0S6Nd/mcd-school-student759.jpg);
+  }
+  80%{
+    background-image: url(https://i.ibb.co/9qkdpk6/delhi-india-november-4-unidentified-260nw-255321937.webp);
+  }
+  100%{
+    background-image: url(https://i.ibb.co/5c3BB7f/depositphotos-39450963-School-children-running.webp);
+  }
+}
+.d-flex{
+  display: flex;
+}
+.AboutRox1{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 20px;
+}
+.AboutWelcomeParagroph{
+  margin-top: 18px;
+  font-size: 15px;
+  font-family: cursive;
+  color:rgba(29, 27, 27, 0.589);
+  animation: Welcomepara 4s ease-in-out;
+  z-index: -1;
+  width: 80%;
+}
+@keyframes Welcomepara{
+  0%{
+    transform: translateX(-100%);
+  }
+}
+.AboutRox2{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 0px;
+  margin-top: 7%;
+}
+.OurMissionmangin{
+  margin-left: 36px;
+}
+.OurMissionmangin h1{
+  color: rgb(255, 153, 0);
+  font-family: cursive;
+  font-size:20px;
+  padding-top: 13px;
+}
+.AboutOurMissionParagroph{
+  margin-top: 18px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-family: cursive;
+  color:rgba(29, 27, 27, 0.589);
+  animation: OurMissionpara 4s ease-in-out;
+  z-index: -1;
+}
+@keyframes OurMissionpara{
+  0%{
+    transform: translateX(100%);
+  }
+}
+.AboutOurMissionImg{
+  margin: 18px;
+  margin-left: 40px; 
+  box-shadow: 0 0 5px #555;
+  width: 85%; 
+  height: 100%; 
+  background-size: cover;
+  animation: slider 10s linear infinite;
+}
+@keyframes slider{
+  0%{
+    background-image: url(https://i.ibb.co/qR8J9JZ/images-2.jpg);
+  }
+  10%{
+    background-image: url(https://i.ibb.co/FBq0C9P/Vision1.jpg);
+  }
+  30%{
+    background-image: url(https://i.ibb.co/N2SkhPZ/B155.jpg);
+  }
+  60%{
+    background-image: url(https://i.ibb.co/ZSxWPzh/images-3.jpg);
+    
+  }
+  80%{
+    background-image: url(https://i.ibb.co/Sy1Nzqs/images-1.jpg);
+  }
+  100%{
+    background-image: url(https://i.ibb.co/qR8J9JZ/images-2.jpg);
+  }
+}
+.d-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 20%);
+  gap: 1rem;
+  margin-left: 16%;
+  margin-top: 25px;
+}
+
+.AboutAcademicExcellence-card {
+  color:  rgb(255, 153, 0);
+  width: 100%;
+  height: 200px;
+  perspective: 1000px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.AboutAcademicExcellence-div {
+  background:#fff;
+}
+
+.AboutAcademicExcellenceCard-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.999s;
+}
+
+.AboutAcademicExcellence-card:hover .AboutAcademicExcellenceCard-inner {
+  transform: rotateY(180deg);
+}
+
+.AboutAcademicExcellence-front,
+.AboutAcademicExcellenceCard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.AboutAcademicExcellence-front {
+  background-color: #6A2C70;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: 4px solid #f7f4f8;
+  border-radius: 10px;
+  justify-content: center;
+  font-size: 27px;
+  transform: rotateY(0deg);
+}
+
+.AboutAcademicExcellence-front .AboutAcademicExcellence-img {
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.AboutAcademicExcellenceCard-back {
+  background-color: #393737;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: 2px solid #f4efed;
+  border-radius: 10px;
+  justify-content: center;
+  font-size: 4px;
+  transform: rotateY(180deg); 
+  
+}
+.scroll{
+  display: flex;
+  margin-top: 20px;
+}
+.studentsimg{
+  border-radius: 50%;
+  margin-right: 50px;
+}
+.studentsimg1{
+  border-radius: 50%;
+  margin-right: 50px;
+  width: 111px;
+}
+.names{
+  font-size: 14px;
+  margin-left: 14px;
+  color:  rgb(255, 153, 0);
+}
+.marks{
+  margin-left:33px;
+  color: #555;
+}
+.StudentsAchievemant{
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+}
+ 
+
+
+
+/* Contact us */
+.Contentbackground{
+  background-color: #09131d;
+  color: #fff;
+  padding: 20px;
+}
+.Contentbackground h1{
+  text-align: center;
+}
+.ContactHeating{
+  font-size: 15px;
+}
+.ContactDetail{
+  font-size: 10px;
+  color:#ababab;
+  padding: 10px;
+}
+.Contacticon{
+  width: 30px;
+  padding-left: 9px;
+  padding-top: 9px;
+}
+.ContactinputBox{
+  border-radius: 5px;
+  margin-left: 10px;
+  height: 30px;
+}
+.ContactUs{
+  display: grid;
+  grid-template-columns: 31% 18% 21% 26%;
+  margin-left: 34px;
+  margin-top: 15px;
+}

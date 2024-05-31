@@ -1,0 +1,57 @@
+
+
+.StudentpgName{
+    font-size: 19px;
+    padding: 20px;
+}
+.StudentpgProfileHeading{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.StudentpgProfileBox{
+    margin: 20px;
+    box-shadow: 0px 0px 5px #555;
+    padding: 20px;
+    border-radius: 10px;
+}
+.StudentpgProfileBox:hover{
+    box-shadow: 0px 0px 7px blue;
+}
+.StudentpgProfile{
+    font-size: 10px;
+}
+.StudentpgProfileNames{
+    padding-left: 10px;
+    font-size: 8px;
+}
+.StudentpgProfileAddress{
+    font-size: 8px;
+    width: 70%;
+    border-width: 0px;
+    padding: 5px;
+}
+.StudentpgMainProfileRow{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    margin-left: 20px;
+}
+.StudentpgProfileRow{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    padding-top: 10px;
+}
+.StudentpgProfileRowSecondLine{
+    display: grid;
+    grid-template-columns: 25% 33% 33%;
+    padding-top: 10px;
+}
+.StudentpgProfileRowThirdLine{
+    display: grid;
+    grid-template-columns: 45% 65%;
+    padding-top: 10px;
+}
+.StudentpgProfileRowFourthLine{
+    display: grid;
+    grid-template-columns: 70% 20%;
+    padding-top: 10px;
+}
